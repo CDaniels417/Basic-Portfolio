@@ -193,6 +193,10 @@ input, textarea {
     font-size: 14px;
 }
 
+button:hover{ 
+    background-color: #777777;
+}
+
 footer {
     position: fixed;
     bottom: 0px;
