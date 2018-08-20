@@ -99,9 +99,10 @@ h2 {
 
 #box {
     display: inline-block;
-    width: 200px;
+    width: 240px;
     height: 200px;
-    margin: 20px;
+    margin: 25px;
+    margin-left: 20px;
 }
 
 .project {
@@ -126,7 +127,7 @@ h2 {
     top: -15px;
     width: auto;
     height: 170px;
-    left: 25%;
+    left: 30%;
 }
 
 .project-title {
