@@ -64,11 +64,10 @@ a {
 
 h2 {
     color: #4aaaa5;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia,'Times New Roman', Times, serif;
     padding-bottom: 3px;
     margin-top: 1px;
     border-bottom: 3px solid #dddd;
-
 }
 
 .header-container {
@@ -156,11 +155,6 @@ h2 {
     text-align: center;
 }
 
-#main-bio{
-    padding: 10px;
-    height: auto;
-}
-
 #main-bio,
 #contact-form,
 #project-portfolio {
@@ -169,11 +163,12 @@ h2 {
     width: 860px;
     margin-bottom: 50px;
     margin-left: 40px;
+    padding:10px;
+    height: auto;
 }
 
 
 #contact-form {
-    padding: 15px;
     height: 520px;
 }
 
