@@ -29,6 +29,10 @@ header {
     
 }
 
+#logo{
+    color: #fff;
+}
+
 nav {
     position: absolute;
     float: right;
