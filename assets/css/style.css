@@ -5,6 +5,7 @@
 body {
     color: #777777;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    width: 1200px;
     text-align: left;
     line-height: 30px;
     margin: 0;
@@ -17,7 +18,7 @@ header {
     float: left;
     width: 270px;
     height: 58px;
-    margin-left: 180px;
+    margin-left: 120px;
     margin-bottom: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
@@ -37,7 +38,7 @@ nav {
     float: right;
     text-align: center;
     width: 270px;
-    left:  875px;
+    left:  820px;
 }
 
 
